@@ -1,0 +1,919 @@
+PLATO Employee Handbook
+
+Version: January 2025
+
+
+
+About This Handbook 
+The following pages contain information regarding the policies and procedures of PLATO. This is not an employment contract and is not intended to create contractual obligations of any kind. 
+The policies and procedures outlined in this handbook will be applied at the discretion of PLATO. PLATO reserves the right to deviate, withdraw or change them, at any time. We will notify you when an official change in policy or procedure has been implemented. 
+PLATO values the many talents and abilities of its employees and seeks to foster an open, cooperative, inclusive and dynamic environment where employees and the company alike can thrive. If you would like further information or have questions about any of the information outlined in this handbook, please feel free to bring them to the attention of Human Resources. 
+
+ 
+Table of Contents
+About This Handbook	2
+1 Welcome to PLATO	6
+1.1 Our Mission	6
+1.2 About Us	6
+1.3 Executive Team	6
+1.4 Important Contacts	7
+2 Workplace Health and Safety	7
+2.1 Health and Safety Policy Statement	7
+2.2 Employer Responsibilities	7
+2.3 Supervisor Responsibilities	7
+2.4 Worker Rights & Responsibilities	7
+2.5 Harassment Policy	8
+2.6 Personal Safety	9
+2.7 Violence and Weapons	10
+2.8 Drug and Alcohol Policy	10
+3 Employment Policies	11
+3.1 Equal Employment Opportunity	11
+3.2 Immigration Law Compliance	11
+3.3 Criminal Convictions	12
+3.4 Probationary Period	12
+3.5 Standards of Conduct	12
+3.6 Duty to Accommodate	13
+3.7 Remote Work Policy	13
+3.8 Personnel File	16
+3.9 Reporting Changes	16
+3.10 Salary Increases	16
+3.11 Confidential Information	16
+3.12 Conflicts of Interest	16
+3.13 Non-Solicitation	17
+3.14 Competing Employment	17
+4 Hours of Work and Timekeeping	17
+4.1 Hours of Work	17
+4.2 Time Keeping	18
+4.3 Disconnecting from Work	18
+4.4 Mandatory Meetings	18
+4.5 Overtime	18
+4.6 Pay Periods	18
+5 Training and Professional Development	18
+6 Travel Policy	19
+6.1 Use of Personal Vehicle	19
+6.2 Rental Vehicles	20
+6.3 Meals	20
+6.4 Lodging	20
+6.5 Out of Province	20
+7 Acceptable Use of Information and Other Assets	20
+7.1 Acceptable Use Policies	20
+7.3 Use of Personal Devices	21
+7.4 Voice Mail and Electronic Mail	21
+7.5 Communication Guidelines	21
+8 Office and Housekeeping Policies	22
+8.1 Housekeeping Policy	22
+8.2 Smoking Policy	22
+8.3 Scent Reduced Policy	22
+8.4 Food and Beverages	22
+8.5 Recycling Policy	23
+8.6 Workplace Attire	23
+8.7 Personal Property	23
+8.8 Office Security	23
+8.9 Monitoring and Searches	23
+8.10 Forced Closings and Severe Weather	24
+9 Time Off and Leave Policies	24
+9.1 Flexible Stat Holiday Policy	24
+9.2 Vacation	25
+9.3 Personal Appointments	26
+9.4 Leave of Absence Policies	26
+10 Employee Benefits	28
+10.1 Health and Dental Benefits	28
+10.2 Worker’s Compensation	28
+10.3 Group Retirement Savings Plan	29
+10.4 Wellness Incentive Program	29
+10.5 Relocation	29
+11 Employee Referral Program	29
+11.1 Program Description	29
+11.2 Referrer Eligibility	30
+11.3 Applicant Eligibility	30
+11.4 Eligible Vacancies	30
+12 Separation Policies	30
+12.1 Job Abandonment	30
+12.2 Termination	30
+12.3 Employment References	31
+Appendix A Examples of Harassment	31
+Appendix B Certification of Insurance Coverage	33
+Appendix C Acceptable Use of Assets and Information	34
+C.9 System Security	39
+Appendix D Third-Party Web Application Usage Policy	42
+Appendix E Acceptable Use of Artificial Intelligence (AI) Policy	43
+
+
+
+
+
+
+1 Welcome to PLATO 
+1.1 Our Mission 
+Changing our world by building a stronger, more inclusive technology workforce. 
+1.2 About Us 
+Welcome to PLATO, a team of software testers from all corners of Canada who share a social mission and live and breathe testing. In addition to providing our clients the highest quality software testing services, PLATO is creating careers in technology for First Nations, Inuit, and Métis people from coast to coast to coast through our innovative train-and-employ model. 
+It was during the Governor General’s Leadership Conference that PLATO’s co-founder Keith McIntosh developed the train-and-employ model that is the bedrock of our company. The Truth and Reconciliation Report had just come out and everyone was thinking about how they could respond to the Calls to Action laid out in support of reconciliation. 
+During the conference, Keith met Denis Carignan, a like-minded professional from Pasqua First Nation, and together with their study group, they visited the Eastern townships of Quebec. One night they were having a lavish dinner with the CEO of Power Corp, and the next day they were visiting the Kahnawake First Nation where they were shocked at the smell of the water coming out of the school as children came out to meet them. 
+The two stayed up half the night figuring out how Keith and his team back at PQA could tackle Call to Action 92 on how corporate Canada can contribute to reconciliation through opportunities in training and employment. That was when the idea for PLATO was born. 
+Built on the foundation of a 25-year software testing company, PQA Testing, PLATO is an experienced, innovative proudly Canadian company. 
+Welcome to our team! 
+1.3 Executive Team
+Keith McIntosh	Chief Executive Officer	Jeff Peters	Chief Delivery Officer
+Emily Cowperthwaite	Chief Operating Officer	Greg Parker	Chief Financial Officer
+Denis Carignan	President	Jonathan Duncan	Partnerships & Alliances
+
+1.4 Important Contacts 
+Payroll and Expense inquiries	payroll@platotech.com
+Human Resources inquiries	HR@platotech.com
+Timekeeping inquiries	ERP@platotech.com
+IT inquiries	helpdesk@platotech.com
+2 Workplace Health and Safety 
+2.1 Health and Safety Policy Statement 
+PLATO recognizes the importance of respecting all of its resources and assets, human and material. Our foremost concern is the safety and well-being of our employees. In fulfilling this commitment, PLATO will provide and maintain a safe and healthy work environment for all employees in compliance with legislative requirements and industry standards. 
+PLATO’s management and our employees equally share the responsibility for reducing accidents and absenteeism by performing their jobs in a safe and healthy manner. All employees are required to do their work as safely as possible. A person who repeatedly violates safety rules may be subject to discipline, up to and including termination. 
+2.2 Employer Responsibilities 
+•	Establish and maintain an Occupational Health and Safety (OH&S) program to ensure the health and safety of workers 
+•	Train employees to understand their rights and responsibilities under the OH&S program, how to do their work safely, and provide proper supervision. 
+•	Provide supervisors with the necessary support and training to carry out their health and safety responsibilities. 
+•	Ensure adequate first aid equipment, supplies, and trained attendants are on site to handle injuries. 
+•	Regularly inspect your workplace to make sure everything is working properly. 
+•	Fix problems reported by workers. 
+•	Transport injured workers to the nearest location for medical treatment. 
+•	Report all injuries to the relevant provincial authorities. 
+•	Investigate incidents where workers are injured or equipment is damaged. 
+2.3 Supervisor Responsibilities 
+•	Ensure the health and safety of all workers under your direct supervision. 
+•	Know the provincial requirements that apply to the work under your supervision and make sure those requirements are met. 
+•	Ensure workers under your supervision are aware of all known hazards. 
+•	Ensure workers under your supervision have the appropriate personal protective equipment, which is being used properly, regularly inspected, and maintained. 
+•	Report health and safety concerns to the employer. 
+•	Co-operate with any person exercising a duty under the occupational health and safety laws. 
+2.4 Worker Rights & Responsibilities 
+2.4.1 Worker Rights 
+•	The right to know about hazards in the workplace. 
+•	The right to participate in health and safety activities in the workplace. 
+•	The right to refuse unsafe work. 
+2.4.2 Worker Responsibilities 
+•	Cooperate with your employer, supervisor, occupational health committee, or occupational health and safety representative 
+•	Know and follow company health and safety policies, practices and procedures 
+•	Use safety equipment properly and as required by the employer 
+•	Report accidents, occupational illnesses, and near misses 
+•	Report health and safety hazards and concerns 
+•	Refrain from causing, encouraging or participating in harassment 
+•	Conduct yourself in a safe and responsible manner 
+2.5 Harassment Policy 
+PLATO is committed to a harassment-free workplace. Harassment is a form of discrimination. Harassment involves any unwanted physical or verbal behavior that offends or humiliates someone. Generally, it is a behavior that persists over time, however serious one-time incidents may also be considered harassment. 
+Employees with questions or concerns about any type of harassment in the workplace are encouraged to contact Human Resources. In the event that it is found that an employee participated in any form of unlawful discrimination will be subject to disciplinary action, up to and including discharge. 
+As an employer, PLATO is committed to providing a work environment in which all employees are treated with respect and dignity. It is the employer's responsibility to prevent and eliminate harassment in the workplace. 
+Harassment in the workplace will not be tolerated and managers must take appropriate action to protect their employees and others in the workplace. Harassment in the workplace constitutes a disciplinary infraction and shall be dealt with appropriately. 
+This policy is not intended to limit or constrain the employer's right to manage. Performance reviews, work evaluation and disciplinary measures taken by the employer for any valid reason do not constitute harassment in the workplace. 
+2.5.1 Definitions 
+For the purposes of this policy, harassment in the workplace includes personal and sexual harassment, poisoned work environment and abuse of authority. 
+Personal Harassment 
+Personal harassment means any objectionable or offensive behavior known or ought to be unwelcome. It includes objectionable conduct, comment or display made on either a one-time or continuous basis that demeans, belittles, or causes personal humiliation or embarrassment. 
+Without limiting the above, personal harassment includes harassment within the meaning of Provincial Human Rights Act(s), i.e., harassment on the basis of the following prohibited grounds of discrimination: race, color, religion, national origin, ancestry, place of origin, age, physical disability, mental disability, marital status, sexual orientation, or sex.
+Sexual Harassment 
+Sexual harassment means any conduct, comment, gesture or contact of a sexual nature, whether on a one-time basis or a series of incidents: 
+•	That might reasonably be expected to cause offence or humiliation 
+•	That might reasonably be perceived as placing a condition of a sexual nature on employment, an opportunity for training or promotion, receipt of services or a contract 
+Examples of behavior that can constitute sexual harassment include, but are not limited to: 
+•	Unwanted touching, patting or leering 
+•	Sexual assault 
+•	Inquiries or comments about a person's sex life 
+•	Telephone calls with sexual overtones 
+•	Gender-based insults or jokes causing embarrassment or humiliation 
+•	Repeated unwanted social or sexual invitations 
+•	Inappropriate or unwelcome focus or comments on a person's physical attributes or appearance 
+•	For additional examples of what is and is not harassment, please see Appendix A. 
+Workplace 
+The workplace includes the physical work site, washrooms, cafeterias, training sessions, business travel, conferences, work-related social gatherings, the employee or client’s home or worksite, etc. 
+2.5.2 Informal Resolution Process 
+Whether or not a written complaint has been filed, an employee who experiences a workplace situation as harassment should be encouraged, if appropriate, to make the situation known to the other person as constructively as possible in an attempt to resolve the situation. This could include the assistance of a resource person, such as a Manager, to help prepare the employee for a meaningful conversation. The words chosen and the tone used to express issues and concerns, and the intent behind messages have an impact on how the recipient receives the information and responds. 
+2.5.3 Report a Complaint 
+To file a complaint, please speak with a manager or the HR department. 
+2.5.4 Complaint Process 
+Once an official complaint has been filed, the HR department will meet with all parties involved, individually, to determine the facts. HR will work to develop and recommend a resolution to be presented to senior management for implementation. 
+2.6 Personal Safety 
+The safety of each employee's health and security is very important to PLATO. PLATO will make all reasonable efforts to address an employee's safety concerns. Employees should remember to use caution and good judgment in all activities and should notify their manager or a member of the management team if they believe there is a safety issue that should be addressed.
+2.7 Violence and Weapons 
+PLATO takes threats of violence extremely seriously. Any act or threat of violence by or against any employee, customer, supplier, partner or visitor is strictly prohibited. This policy applies to all company employees, whether on or off company property. 
+Any use or possession of weapons, whether illegal or not, is prohibited on company property, or while on company business. This includes knives, guns, martial arts weapons or any other object used as a weapon. Any employee caught possessing such a weapon will be disciplined, up to and including termination. 
+2.8 Drug and Alcohol Policy 
+2.8.1 Intent 
+PLATO is committed to being the industry leader in providing outstanding value to its customers and a safe and stimulating work environment for its employees. Recognizing the potential negative effects of alcohol and drugs on the organization, in particular the hazards that those individuals who abuse alcohol and/or drugs pose to themselves, their co-workers and clients, PLATO has implemented a drug and alcohol policy. 
+Drug and alcohol use is not acceptable in the workplace. PLATO acknowledges its obligation to take all reasonable steps to ensure the health and safety of its workers. Employees under the influence of drugs or alcohol on the job can pose serious health and safety risks both to themselves and their fellow employees. To help ensure a safe and healthy workplace, PLATO reserves the right to prohibit certain items and substances from being brought onto or present on company premises. 
+2.8.2 Expectations 
+The following expectations apply to employees and management alike while conducting work on behalf of the company, whether on or off company property: 
+•	Employees are expected to arrive to work fit for duty and able to perform their duties safely and to standard; employees must remain fit for duty for the duration of the workday 
+•	The use, possession, distribution, or sale of drugs or alcohol during work hours, including during breaks, is strictly prohibited 
+•	Employees are prohibited from reporting to work while under the influence of drugs or alcohol, including recreational marijuana and any other non-prescribed substances 
+•	Employees medically approved for medication must communicate to management any potential risk, limitation, or restriction requiring modification of duties or temporary reassignment 
+•	Employees are expected to abide by all governing legislation pertaining to the possession and use of any prescribed medication, including marijuana, for their respective province. 
+2.8.3 Roles and Responsibilities 
+PLATO will clearly communicate all expectations surrounding drug and alcohol use, misuse and abuse. To help enforce this policy, management and employees are expected to adhere to the following: 
+Management will: 
+•	Identify any situations that may cause concern regarding an employee’s ability to safely perform their job functions 
+•	Ensure that any employee who asks for help due to a drug or alcohol dependency is provided with the appropriate support 
+•	Maintain confidentiality and employee privacy 
+Employees must: 
+•	Arrive to work fit for duty, and remain fit for duty throughout the workday 
+•	Perform work safely in accordance with company-established work practices 
+•	Avoid the consumption, possession, sale or distribution of marijuana, other drugs or alcohol on company property, and during working hours even if off company property 
+•	When not working, refuse a request to come into work if unfit for duty 
+•	Report limitations and required modifications as a result of prescribed medication, including medically approved marijuana use 
+•	Report unfit co-workers to management 
+•	Seek advice or appropriate treatment, where required 
+•	Communicate dependency or emerging dependency 
+•	Abide by all governing legislation pertaining to the possession and use of marijuana and any other recreational substances 
+2.8.4 Medical Marijuana 
+Where an employee uses medical marijuana, it is expected they provide PLATO with a copy of their medical license to use marijuana. 
+2.8.5 Disciplinary Action 
+Employees found in violation of this policy may be subject to disciplinary action, up to and including termination of employment. Where applicable, PLATO may also take legal action in accordance with the law. 
+3 Employment Policies 
+3.1 Equal Employment Opportunity 
+PLATO is an equal opportunities employer and will provide equal employment opportunities to the four designated groups: 
+•	Women 
+•	Indigenous (First Nation, Inuit or Metis) 
+•	People with disabilities 
+•	Members of visible minorities. 
+3.2 Immigration Law Compliance 
+In Canada, PLATO hires only those persons who are legally entitled to work in Canada. 
+PLATO may, at its sole discretion, support employees’ application to provincial immigration nomination programs through the provision of employment information required for such applications. The provision of such information is entirely at PLATO’s discretion, and it remains the employee’s full responsibility to maintain their legal eligibility to work in Canada. 
+3.3 Criminal Convictions 
+PLATO reserves the right not to hire or retain anyone that has been convicted of a criminal offense. Conviction of a crime that involves dishonesty may result in an automatic termination of employment. Before any decision is made, the nature of the crime and circumstances surrounding the conviction will be considered.
+3.4 Probationary Period 
+The probationary period for all employees will be the first 90 days of employment. During this time, the employee’s manager will continually evaluate their performance and compatibility with PLATO. PLATO, at its sole discretion, may also elect to place an employee on probation or extend an employee’s existing probation period. Employees are not eligible to take vacation or paid personal time during the probationary period. 
+3.5 Standards of Conduct 
+PLATO expects all employees to conduct themselves in a professional and ethical manner. An employee should not conduct business that is unethical in any way, nor should an employee influence other employees to act unethically. Furthermore, an employee should report any dishonest activities or damaging conduct to an appropriate Manager. 
+The following guidelines are intended to provide direction to all employees to create a welcoming work environment that supports excellent employee relations. As such there is an expectation that employees at every level of PLATO will treat each other with fairness, respect, courtesy and consideration. These guidelines cannot cover every work situation, and employees are expected to use these guidelines and PLATO’s values to guide their decisions. In addition, clarification can be sought from Managers and HR. 
+3.5.1 Professional Conduct 
+•	The following list outlines the core tenets of professional conduct expected from all PLATO employees: 
+•	Attitude: Displaying and demonstrating a positive attitude, by cooperating and collaborating with others. Welcoming new ideas, promoting a healthy work/life balance. 
+•	Respect: Treating everyone in our organization and client organizations with appreciation, fairness, professionalism and dignity. Everyone in our organization and client organizations have rights, opinions, wishes, experiences and competencies. 
+•	Integrity: Being honest and open. In our organization it is important to take responsibility and accountability for your actions. 
+•	Objectivity: Representing truth, despite your opinions. Not being influenced or persuaded based on personal feelings in considering and presenting the facts. 
+•	Competence: Showing a quality knowledge and skillset that can be used in the workplace. Having knowledge, judgement, skill or strength is important to show success and efficiency. Being honest about skill area strengths and areas for improvement. 
+•	Confidentiality: In our roles we handle sensitive documents and information that is confidential, meaning kept secret, and in trust. It is important to be informed about and always abide by confidentiality rules. 
+•	Professionalism: Employing a behavior and attitude of productivity, taking initiative, maintaining effective and efficient work habits and working with others in a positive way. Demonstrating skills, reliability, engagement, professional mannerisms, and confident demeanor in a classroom or work environment. 
+3.5.2 Gifts, Hospitality & Gratuities 
+PLATO employees and family members are not permitted to accept, solicit or offer gifts, discounts, loans, services or benefits from any individual or organization except where permitted in the policy requirements. Receipt of gifts, hospitality, or entertainment is permitted provided it meets at least one of the following conditions: 
+•	The value is less than $200 
+•	The normal exchange of hospitality or entertainment between people doing business together. 
+•	Gifts exchanged as part of an honorarium. 
+•	Normal presentation of gifts to people participating in public functions. 
+Any item donated or presented on behalf of PLATO must be authorized by the CEO or designate. 
+3.5.3 PLATO Name & Logo 
+Official PLATO stationery may not be used for outside business, personal or private correspondence. Employees will not use PLATO’s name when purchasing goods or services that are not for PLATO’s use. 
+3.5.4 Attendance at External Luncheons, Receptions, Training, Events, etc. 
+Invitations to attend receptions and luncheons may be accepted in consultation with employees’ managers. Employees attending training, receptions, or events are ambassadors for PLATO and must conduct themselves accordingly. 
+3.6 Duty to Accommodate 
+PLATO is committed to fostering an inclusive workplace where all employees are treated with respect and dignity. The provincial Human Rights Codes protect the right of individuals to fully participate in employment activities without discrimination. Accommodation may be required to ensure these rights. PLATO will provide workplace accommodation, to the point of undue hardship. The purpose of accommodation is to ensure that individuals who are otherwise able to work are not discriminated against by being excluded from doing so when working conditions can be adjusted without causing undue hardship to PLATO. 
+Accommodation is a shared responsibility between employees, Managers and PLATO. Employees have an obligation to inform PLATO of the need for accommodation and to assist in securing appropriate accommodation. Employees must provide the necessary medical or other information that justifies the request for accommodation. 
+Undue hardship occurs when accommodation adjustments to the workplace would be prohibitively expensive or create undue risks to health or safety. Each situation will be viewed as unique and assessed individually. A claim of undue hardship must be supported with facts and detailed analysis of options. 
+3.7 Remote Work Policy 
+3.7.1 Intent 
+PLATO understands the value of remote work in supporting a healthy work-life balance. Unless mandated by legislation or regulations, the option for remote work will be governed by local in-office attendance requirements, as determined by Regional Leadership. This policy outlines the standards and expectations for employees working remotely. 
+3.7.2 Guidelines 
+This policy does not alter or replace the terms of the existing employment agreement. Employees must comply with all company rules, policies, practices, and instructions that would apply if the employee were working at a regular PLATO or client worksite. 
+3.7.3 Location 
+The remote work location is assumed to be the employee’s home address as listed in their employee file. Employees are required to keep their address and contact details updated. Employees must receive approval to work remotely from a location other than their listed home address. 
+3.7.4 Work Schedule 
+The employees’ work schedule will be as outlined in the Employee Handbook, unless otherwise specified. 
+3.7.5 Remote Work Conditions 
+Employees working remotely must remain productive, connected, and secure. The employee must designate a space in their home as their workspace. This space must be private to ensure the confidentiality of work being completed. The employee is responsible for ensuring their workspace is safe and ergonomically suitable, allowing them to complete their duties to expectation and in accordance with safe work practices and applicable legislation. 
+All employees working remotely must have a reliable high-speed internet connection and landline or cellular phone service. If an employee experiences a utility outage that impacts their ability to connect to the PLATO network, it is the employee's responsibility to secure an alternative connection. If an employee is unable to secure an alternative connection, they must notify their manager immediately. Any missed time will be applied to an appropriate time off balance. 
+Given the private and residential nature of working from home, PLATO has limited access to, or control over, the employee’s place of work. As such, employees must continually take all reasonable and necessary precautions to safeguard their remote workspace, ensuring that it is fit for this purpose and compliant with health and safety requirements. It remains the employee’s obligation to identify any potential hazards and remove them from their remote workspace. 
+3.7.6 Care of Dependents, Elders, and Others 
+To ensure a distraction-free work environment, the employee will ensure care arrangements are in place for dependents, elders or any other individuals they are responsible for during their work hours. Should a situation develop where the Employee is unable to make alternate care arrangements, they will immediately advise their manager to discuss possible options. 
+3.7.7 Company-Issued Devices and Acceptable Use of Assets 
+Employees do not have any expectation of privacy in relation to company or client devices issued to them for working remotely, including computers, tablets, and phones, notwithstanding the fact that these may be used in the employee’s residence. 
+Company- and client- issued devices, along with their contents (including files, data, accounts, e-mails, messages, file systems, and storage media that may be contained therein, whether in virtual or physical form) remain the property of the organization and may be subject to inspection or repossession at any time. The employee acknowledges that they are not entitled to retain possession of, or deny access to, any company-issued equipment due to the employee having loaded personal information thereon. Conduct of this nature constitutes a breach of this policy and may result in disciplinary action, termination for cause, and police intervention in circumstances that involve theft of company or client property. 
+Company-issued devices are intended to conduct business on behalf of the company and must be used in accordance with applicable policies as outlined in this policy and Section 7 Acceptable Use of Information and Other Assets. 
+Employees agree to return, in good working order and in a timely fashion, all company-owned devices and peripherals used for working remotely upon request of the company, the end of the remote work arrangement, or upon termination of employment. 
+3.7.8 Payroll & Timekeeping 
+All time away from work, including vacation, sick days, and so on, will be tracked and processed for payroll accordingly. If an employee is found to have falsely reported their hours, they may be subject to discipline up to and including termination. 
+3.7.9 Remote Work Expenses 
+PLATO is not responsible for the costs incurred in the set-up or maintenance of employees’ remote workspace, including internet access. 
+3.7.10 Performance Management 
+Working remotely should not affect an employee’s ability to complete day-to-day functions, including communicating with colleagues, management, clients, and so on. If an employee’s presence is required for a meeting at the worksite, reasonable notice will be provided, and they are expected to attend. 
+If PLATO has concerns related to productivity, these will be addressed directly with the employee and the employee may undergo formal performance management to support them in achieving expectations while working remotely. If productivity concerns continue, the organization may revoke remote working privileges and require the employee to return to fully in-person work arrangements. 
+3.7.11 Ending Employment 
+Upon termination of employment, the employee’s access to company-issued accounts and equipment may immediately be revoked without advance notice. All information contained therein constitutes property owned by the employer. 
+The employee must return and make available all company-issued equipment and return all work-related documentation and assets within one (1) day of termination of employment. In such cases, no copies, drafts, or backups of any form may be retained by the employee. These obligations similarly apply if the employee is suspended pending an investigation, and so on. 
+
+3.7.12 End of Agreement 
+PLATO may amend or revoke an employee’s remote work privileges at any time. Employees may be required to report to a PLATO office or client work site the following business day. Employees must promptly return all company property used for working remotely. Failure to do so may result in discipline for current employees or legal action if the employee no longer works for the company. 
+3.8 Personnel File 
+PLATO keeps personnel files on each of its employees. These files are confidential in nature and are managed by the HR Department. They will not be copied or be removed from the premises unless there is a legitimate business reason to do so. Employees may view their personnel file by contacting HR during normal business hours and providing one-day notice. 
+3.9 Reporting Changes 
+You are responsible for promptly notifying HR of any changes to your personal information. Changes to your personal address, email address, telephone number, and emergency contact can be made through your Employee Self Service portal in Payworks. Changes to any other information (including but not limited to legal or preferred name, marital status, citizenship, tax-withholding allowances, insurance beneficiary and/or dependent insurance coverage) should be communicated to Human Resources. Accurate and correct information is vital for benefits and insurance records and other company files. If you are working on a Work Visa/Permit, you must notify HR at least two (2) months before it expires and provide your updated details immediately upon extension. 
+3.10 Salary Increases 
+Salary increases are based on performance reviews or a promotion. All salary increases are at the discretion of the Management Team. Salary reviews will typically occur following the fiscal year end (Sept 30). 
+3.11 Confidential Information 
+PLATO requires that employees do not disclose information held to be confidential by PLATO. PLATO employees shall not represent specific client names on publicly accessible sites like LinkedIn, Twitter, Facebook, etc. during their employment with PLATO. 
+PLATO recognizes that employees may reference their role and the experience they have gained whilst working with PLATO, but there is an implied fiduciary obligation to NOT reveal actual client names in any public forum. In many instances, these references are made unwittingly and with innocent intent. Failure to comply with such responsibilities may result in PLATO clients being legally exposed and, thus, may result in PLATO clients resorting to legal recourse against PLATO to recover any damage that may occur or has occurred from such exposure. 
+Please reference the PLATO Employment Contract (Company Information & Third-Party Information), for further clarification related to PLATO, PLATO employees and their obligation to any confidential information. If there are questions or concerns regarding any PLATO employee/client interaction, please direct these to the management team for clarification. 
+3.12 Conflicts of Interest 
+PLATO requires that employees not compromise the company, its customers, partners or suppliers for personal gain. Examples of conflict of interest include accepting gifts worth over $200, requesting or granting favors or conducting business for personal gain. Employees are required to disclose all conflicts of interest to their Manager or the management team. Failure to do so may result in disciplinary action, up to and including termination. 
+PLATO employees often have access to their clients’ confidential information. It is important to the integrity of PLATO, PLATO employees and PLATO clients that there can be no perception of inappropriate use of this information. This perception is particularly important when dealing with clients involved in industries such as government, banking, healthcare, finance, gaming/gambling or game play. 
+In order to avoid placing PLATO, PLATO employees or PLATO clients in an avoidable situation, PLATO is implementing a zero-tolerance policy with respect to engaging in activities where PLATO employees could be perceived to benefit from access to this information. If there are questions or concerns regarding any PLATO employee/client interaction, please direct these to the management team for clarification. 
+3.13 Non-Solicitation 
+During the period of your employment and for a period of twelve (12) months after the termination of your employment with PLATO, you shall not, directly or indirectly: 
+i. Solicit for employment or employ any person who was employed by PLATO during your employment with PLATO; or 
+ii. Call on, solicit or take away for yourself or for any other person or entity, any person or entity who or which was a customer of PLATO during your employment with PLATO. 
+3.14 Competing Employment 
+Due to the highly competitive nature of the industry in which PLATO is involved, employees are restricted from certain associations or working arrangements with competing or conflicting organizations. Subject to PLATO’s prior written approval, you may work for other businesses during the course of your employment with PLATO; provided, however, you may not: 
+I.	accept or perform work of a nature that conflicts or competes in any way with the business or services of PLATO; 
+II.	use any PLATO resources including, but not limited to, computer hardware and software, telephones, facsimile machines and copiers, for or in connection with any non-PLATO work; 
+III.	perform any non-PLATO work on PLATO premises; or 
+IV.	perform any non-PLATO work during normal business hours. 
+Employees considering outside employment shall complete and submit to HR@platotech.com the Outside Employment Disclosure Form and complete and submit a new Outside Employment Disclosure Form if their position with PLATO changes or outside employment changes. 
+4 Hours of Work and Timekeeping 
+4.1 Hours of Work 
+PLATO’s standard work week for full-time employees is 40 hours. Schedules may vary based on the client and the company’s needs. 
+PLATO’s business hours are 8:00 am to 5:00 pm (local time), Mondays through Fridays. PLATO's preference is for employees to work within this schedule; however, it is understood that salaried employees may be required to work extra hours to accommodate certain deadlines. If such extended hours are required, PLATO will allow some flexibility with the expectation that employees will make every effort to align their hours with office hours. 
+Lunch hour is between 12:00 pm and 1:00 pm. Employees are expected to schedule appointments and personal errands during this time. Permission is needed when taking lunch outside of the normal timeframe. This should only occur when personal obligations cannot be scheduled between 12:00 pm and 1:00 pm. 
+4.2 Time Keeping 
+All employees, unless otherwise instructed, are required to use the designated software for timekeeping. It is the expectation of all billable employees to enter their time daily and submit their timesheet for approval no later than 12 p.m. every Friday, and the last working day of every month. Vacation and personal time (where possible) should be entered in advance, upon approval. All other time should be entered as it is worked. 
+4.3 Disconnecting from Work 
+Employees are not expected to engage in work-related communications, including emails, telephone calls, video calls or the sending or reviewing of other messages on a regular basis, so as to be free from the performance of work outside of regular work hours. There may be exceptional situations where an employee will be required to work extra hours to accommodate specific deadlines or urgent situations. Leaders are expected to be available for urgent matters requiring immediate attention. Employees are encouraged to turn on an out-of-office notification on their emails, when they are not scheduled to work, indicating they will respond on their next scheduled work day. 
+4.4 Mandatory Meetings 
+Employees will be required to attend mandatory team meetings from time to time and will be expected to accommodate these meetings within their normal working hours. This includes employees who may be working from home. 
+4.5 Overtime 
+Employees may be eligible for overtime if they must work for more than forty (40) hours in a week. This overtime will be calculated hour for hour and paid out the month following the hours worked. There will be no banking of hours. All extra hours of work must be pre-approved in writing (by email) by the PLATO Manager or Regional Leader prior to the employee working these hours. Any extra hours worked will be entered and approved in the timekeeping software on a weekly basis. Employees whose principal employment duties consist of supervising or directing, or both supervising and directing, human or other resources, or a person employed in an executive capacity are not eligible for overtime. 
+If the employment standard in the province in which you work has a higher threshold than this policy, then that will apply. 
+4.6 Pay Periods 
+Paydays occur bi-weekly on Fridays. PLATO uses direct deposit. PLATO is required to make all necessary deductions from employees’ pay for Federal and Provincial Income Taxes, Employment Insurance, Canada Pension, etc. The amount for each deduction depends upon the employees’ total earnings and may vary from year to year. Income Tax deductions will vary depending on the exemptions of what an employee reports to payroll, via the TD1 Form. 
+5 Training and Professional Development 
+PLATO believes in supporting training and professional development initiatives for staff when it is deemed beneficial to both the employee and the organization’s business operations and strategic goals. Training and professional development will be provided by internal and external resources. Internal training will focus on corporate initiatives such as orientation and development needs for large groups of staff. 
+Training opportunities which will affect an employee’s ability to perform his/her work during the training period must be pre-approved by the corresponding PLATO Manager and Regional Leader. 
+Training towards further professional development is a joint responsibility between PLATO and the employee. Financial support will vary, and it will be considered on a case-by-case basis. 
+Approval for funding support and/or time off to pursue the training will be dependent upon the following factors: 
+•	Benefit to the employee 
+•	Benefit to PLATO operations 
+•	Fit between the training and the employee’s skill set development 
+•	Cost of the training (registration, travel, books, etc.) 
+•	Impact on PLATO operations during the training time period (for example, loss of billable time) 
+In most cases, employees taking time off to attend an exam will select the appropriate option based on their current status (billable or non-billable): 
+•	Billable employee – take a professional development day on the understanding you will make up the time in a billable manner 
+•	Non-billable employee – take a vacation day (this would be the only option if you are on the bench) 
+The employee will have to prepare a business case for the training addressing the factors above and submit the application to his/her PLATO Manager, who in turn will review it and submit it to the appropriate Leadership team member. The employee will be notified of approval/denial by their Leadership team member. 
+6 Travel Policy 
+We ensure fair and uniform reimbursement to all employees for travel and business expenses, when travelling away from their usual place of employment, for the purpose of PLATO business. Advance approval and provision of receipts is required in order to be reimbursed for travel expenses. 
+When travel is booked by PLATO for employees, PLATO will pay for any flights required on a company card. Hotels and rental cars, if required, will be reserved on a PLATO company card, but the employee is responsible for paying upon arrival and submitting an expense claim for reimbursement. 
+6.1 Use of Personal Vehicle 
+The rate for use of a personal auto on PLATO business will be as per the reasonable allowance rate from Canada Revenue Agency. These rates, which are a proxy for the costs of operating an average vehicle, will be considered to cover gas, oil, maintenance, tires, repairs, and insurance. Employees are encouraged to carpool whenever possible. 
+Each person who may have the occasion to use his/her auto for business will be required to submit a document to the Chief Finance Officer certifying that they maintain coverage for public liability at the level of $1,000,000 or more. They will also confirm that their insurance will cover them while on business travel. This certificate will have no expiry and will be considered valid for the term of the employee’s employment with PLATO. 
+If the employee reduces the coverage below $1,000,000 (or any revised amount) it is the obligation of the employee to inform PLATO. A copy of the certificate to be used is attached as Appendix B Certification of Insurance Coverage. 
+6.2 Rental Vehicles 
+An economy-size automobile can be rented for any travel that exceeds an average of 200 km per trip. Two hundred kilometers per day should generally be regarded as the point at which it is more economical to rent a vehicle as opposed to utilizing your personal vehicle; however, it is the responsibility of the employee to research rental car costs vs. mileage or other transportation options to determine which option is the most cost effective. Staff unable to drive may submit receipts for bus or train travel. 
+It is also the responsibility of the employee to ensure rented vehicles are full of fuel BEFORE returning them and that you have sufficient insurance to cover the rental – PLATO will not reimburse for rental insurance. PLATO will reimburse the rental and licensing fees, fuel, and kilometer charges in excess of the allowable rate. 
+6.3 Meals 
+There will be an allowance for meals while travelling on PLATO business of $50 per day in Canada. Travel for partial days during mealtimes will result in the following claims: 
+Breakfast = $10 Lunch = $15 Supper = $25 Total = $50 
+For example, an employee leaving Moncton very early in the morning to return to his/her regular place of work in Fredericton will be eligible for breakfast. The per diem will not apply to meals normally taken at home or work prior to travelling or after returning from the trip. In situations where the cost of meals, including a modest gratuity, exceeds the allowance, receipts must be submitted for reimbursement. 
+6.4 Lodging 
+Reasonable costs for lodging will be reimbursed. Staff are expected to make their own arrangements with their PLATO Manager for ongoing project work. Whenever possible, staff should utilize apartment rentals and corporate suites which provide double or triple occupancy. Single occupancy will be considered depending upon contractual considerations with the client, the duration of stay, etc. If the employee is being housed privately, there will be a gift allowance of $25 per night for host courtesy. A gift may be purchased and upon the provision of receipts, the employee will be reimbursed. 
+6.5 Out of Province 
+All travel to points outside of the province of your regular place of work must have the prior approval of the employee’s respective Leadership team member. Accommodation and flight arrangements for conferences should be made through the Fredericton office. 
+7 Acceptable Use of Information and Other Assets 
+7.1 Acceptable Use Policies 
+The objective of PLATO’s Acceptable Use policies is to ensure that all PLATO information and computing assets are appropriately protected and available for their intended use. In addition, this policy seeks to preserve the confidentiality of personal and private information and safeguard the legal position of PLATO. 
+Information security is the responsibility of everyone. This policy applies to all employees, contractors, agents, suppliers and any other third parties who use PLATO information and computing assets. 
+Please review the following for full details: 
+Appendix C Acceptable Use of Assets and Information 
+Appendix D Third-Party Web Application Usage Policy 
+Appendix E Acceptable Use of Artificial Intelligence (AI) Policy 
+7.2 Telephone Use 
+Mobile telephones are provided for eligible employees to carry out work assignments in an efficient manner. Personal telephone calls should be kept to a minimum and personal toll calls should not be made at PLATO's expense. If you have a direct phone line, please provide it to clients, customers and family members. 
+7.3 Use of Personal Devices 
+Personal devices should only be used during breaks, at lunch, or in the event of an emergency. 
+7.4 Voice Mail and Electronic Mail 
+All electronic and telephone communication systems and all communications and information transmitted by, received from, or stored in these systems are the property of PLATO and as such are intended for job-related purposes. Personal use should be kept to a minimum. Electronic or telephone communication systems may not be used to transmit messages that may be considered inappropriate under PLATO’s policies, including those that may be deemed to be harassing in nature. Employees are not permitted to use a code, access a file or retrieve any stored communication unless authorized to do so or unless they have received prior clearance from an authorized company representative. All pass codes are the property of PLATO and may be used by PLATO to access electronic and telephone communications at any time. PLATO reserves the right to monitor any electronic, telephone or other communications made using PLATO systems or property. 
+7.5 Communication Guidelines 
+Instant messaging (IM) software is offered to PLATO employees as a tool for written communications amongst the company. The main purpose of the tool is to ease work-related communication between dispersed teams and provide communication efficiencies wherever possible. 
+When communicating via IM, employees should consider the same rules as if they were communicating verbally. IM should be treated as an extension of PLATO and PLATO’s physical workspace wherein social and professional interactions are conducted with high levels of respect and tolerance. Employees should always keep in mind the following: “If you wouldn’t say it in person, do not type it”. While communicating, employees should also refrain from the following: 
+•	Using any type of curse words or offensive language 
+•	Making any kind of racial or sexual slurs, comments or jokes 
+•	Engaging in any kind of bullying or humiliation of other employees 
+•	Making any type of work or non-work-related threats 
+•	Spreading any kind of rumor 
+•	Sharing any kind of confidential or financial information related to the company or a specific person 
+•	Engaging in any kind of conversation that could be perceived as harassment 
+•	Making comments that may be offensive to any gender 
+
+IM is a platform that can be used to share information including links to external websites, file sharing, as well as posting videos and photos. When sharing any kind of information, employees should not share the following: 
+•	Any kind of sexual content 
+•	Content related to political topics 
+•	Content containing violence or of violent nature 
+•	Content containing any kind of racist comments or material 
+•	Content not suited for a professional work environment 
+When none of the categories above apply, the employee should always use their best judgment and discretion before posting any kind of information, keeping in mind other employees who may find the information or post offensive or inappropriate. If the employee has any doubt regarding the appropriateness of the information or post they are intending to share, they can always seek the advice of HR prior to posting or simply avoid sharing. 
+8 Office and Housekeeping Policies 
+8.1 Housekeeping Policy 
+•	All employees are responsible for keeping the area around their workstation clean and presentable. Employees may not display any pictures, posters or play music that may be deemed inappropriate or offensive to others. 
+•	Meeting areas must be returned to a clean and presentable condition after use. 
+•	Clean up any leaks and spills right away. 
+•	Employees are responsible for washing any cups, dishes, and cutlery. 
+•	Refrigerator etiquette: o Keep track of what is yours and throw away any spoiled food. 
+•	Don’t leave food uncovered. 
+•	Don’t take or move anything that isn’t yours 
+•	Don’t store food in the fridge. Food left in the fridge after 5pm on Fridays may be thrown away 
+•	Please dispose of any food waste in lunchroom receptacles, not at your desk. 
+8.2 Smoking Policy 
+Smoking is not permitted on PLATO premises, except in the designated smoking area(s). All office locations will follow the requirements of their respective landlords. 
+8.3 Scent Reduced Policy 
+PLATO promotes a scent-reduced environment. Employees should not wear strong perfumed scented personal products (such as perfume, aftershave, cologne, lotions, hair sprays, etc.). 
+8.4 Food and Beverages 
+PLATO will, from time to time, host visitors on the premises. The company’s surroundings should always reflect a professional appearance. Eating at your desk is acceptable but should be done unobtrusively and in a way that prevents damage to valuable company equipment and other property. 
+8.5 Recycling Policy 
+PLATO supports environmental awareness by mandating recycling in the workplace. Employees should dispose of bottles, cans and paper in the appropriate recycling bins. Employees are also encouraged to conserve energy by shutting down their monitors and printers at night and by turning off the lights when not needed.
+8.6 Workplace Attire 
+PLATO has a casual dress environment; however, employees are expected to use good judgment and taste and to show courtesy to their co-workers and associates by dressing in a fashion that is presentable and appropriate. 
+This includes: 
+•	Clean clothes 
+•	No holes in jeans 
+•	No logos that may be deemed offensive or inappropriate 
+•	No flip flops 
+•	No shorts 
+•	No ball caps 
+•	Cover tattoos that may be deemed offensive or inappropriate 
+Employees are to dress in appropriate business-casual attire for meetings with clients or vendors at PLATO's offices or other locations. Business casual refers to dress pants or khakis, an appropriate dress shirt and appropriate footwear. Employees working on a client site are required to follow the dress codes of the client. If you have any questions about “appropriate attire” please ask your Manager or Human Resources. 
+8.7 Personal Property 
+PLATO does not assume responsibility for any personal property located on its premises. Employees are to use their own discretion when bringing personal property into the office and do so at their own risk. Employees may not bring or display in the office any property that may be viewed as inappropriate or offensive to others. 
+8.8 Office Security 
+All visitors to PLATO offices must be entered into the appropriate Visitor Log. Visitors must be accompanied and supervised by a PLATO employee at all times. 
+The last employee to leave any PLATO office at night is responsible for ensuring that all doors and windows are locked in their area, the lights are turned off and alarms are armed (if applicable). 
+8.9 Monitoring and Searches 
+All company property is subject to monitoring and review at all times. This includes, but is not limited to, desks, computers and email files. Reasons for searches and reviews include, but are not limited to, personal abuse of company property, theft investigation, and improper disclosure of confidential information. 
+PLATO retains the right to conduct searches at any time. This includes the right to search individual computers or files, even if protected by a password. Any employee that attempts to obtain or alter a password for the purpose of accessing restricted files will be subject to disciplinary action, up to and including termination. 
+8.10 Forced Closings and Severe Weather 
+Unless communicated otherwise, PLATO offices will remain open on all regularly scheduled days, regardless of weather conditions. In the event of severe inclement weather, employees are not required to attend the office and may elect to work from home. In these events, employees are responsible for ensuring that they have their equipment at home and that they communicate their plans with their PLATO manager. If an employee cannot attend the office and is not able to work from home due to utility outages or not having their equipment, they must use vacation time to cover any missed time. 
+9 Time Off and Leave Policies 
+9.1 Flexible Stat Holiday Policy 
+Full-time permanent employees are entitled to eleven (11) paid holidays per calendar year. The assigned holidays are based on employees’ province of employment as indicated in the table below. If a holiday falls on a Saturday or Sunday, the following Monday will be the recognized day off.
+Mandatory Holidays for All Employees
+These five (5) holidays are mandatory for all PLATO employees, regardless of province:
+•	New Year’s Day (January 1)
+•	Good Friday (Varies by year)
+•	Canada Day (July 1)
+•	Labour Day (First Monday in September)
+•	Christmas Day (December 25)
+Policy on Flexible Holidays
+Employees may choose to work on one or more flexible holidays and take an alternate day off in lieu. By doing so, the employee waives any extra statutory pay associated with that statutory holiday. Flexible holidays support cultural and religious diversity, allowing employees to celebrate days significant to them.
+Holiday List by Province
+British Columbia (BC)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day (3rd Monday in February), Victoria Day (Mon before May 25), Civic Holiday (1st Monday in August), NDTR (Sept 30), Thanksgiving Monday (2nd Monday in Oct), Remembrance Day (Nov 11), Boxing Day (Dec 26)
+Alberta (AB)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, Civic Holiday, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+
+Saskatchewan (SK)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+Manitoba (MB)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+Ontario (ON)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, Civic Holiday, NDTR, Thanksgiving Monday, Boxing Day
+Quebec (QC)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: St. Jean Baptiste Day (Jun 24), Victoria Day, NDTR, Thanksgiving Monday, Boxing Day
+New Brunswick (NB)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, Civic Holiday, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+Prince Edward Island (PEI)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, NDTR, Remembrance Day, Boxing Day
+Nova Scotia (NS)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, Civic Holiday, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+Newfoundland & Labrador (NL)
+•	Mandatory: New Year’s Day, Good Friday, Canada Day, Labour Day, Christmas Day
+•	Flexible: Family Day, Victoria Day, Civic Holiday, NDTR, Thanksgiving Monday, Remembrance Day, Boxing Day
+To accommodate the diversity of our workforce and allow employees to use their holiday time to celebrate the days that are of religious or cultural significance to them, the remaining six (6) holidays are flexible. Employees can choose to work on any one or more of the six (6) flexible holidays and take an alternate day off in lieu. By choosing an alternate day in lieu of a stat holiday required by the Employment Standards legislation in your province of employment, you agree to attend work on that holiday, and acknowledge that you will forfeit any additional stat pay for working on that stat holiday. 
+All requests to take a day in lieu of a flexible stat holiday must be made during the annual selection period. The day in lieu must be specified at that time and cannot be changed. Flexible holidays are intended to be used to observe days of religious or cultural significance and may not be booked on consecutive workdays. Employees who do not make a selection during the selection period, or those who join or return from leave within the calendar year, will be assigned the holidays highlighted in the table above as per their province of employment. 
+9.2 Vacation
+Vacation time accrues monthly. Depending on your annual vacation allotment, PLATO employees are entitled to the following vacation time:
+Years of Service 	Annual Entitlement 
+Up to one (1) year 	2 weeks 
+From one (1) to five (5) years 	3 weeks 
+After five (5) years 	4 weeks 
+
+Vacation can be taken in half or full day increments only. Employees are not eligible to take vacation time during the probationary period.
+Vacation requests of five (5) days or less must be submitted to the employee’s Manager at least two weeks prior to the requested date. Vacation requests of more than five (5) days must be submitted at least one month prior to the requested dates; however, when an employee is non-billable, short notice requests are acceptable. Requests to use more than 10 consecutive days require Regional Leader approval. Requests to overdraw accrued vacation may be considered on a case-by-case basis and must receive Regional Leader approval. No employee can overdraw their accrued vacation by more than five days. 
+Employees are strongly encouraged to use their allotted vacation time within the calendar year, preferably during non-billable time. Non-billable employees are required to use any accrued vacation days to cover the working days that fall between Christmas and New Year’s Day. Employees may carry forward a maximum of five (5) vacation days into the following year. 
+9.3 Personal Appointments 
+Personal appointments are encouraged to be made during breaks and the lunch hour wherever possible. Time off work due to personal appointments is to be used from the employee’s annual personal time balance. 
+9.4 Leave of Absence Policies 
+9.4.1 General 
+PLATO provides eligible employees with leave for a variety of reasons. PLATO abides by the provisions of the Employment Standards Act leave policies, as appropriate. 
+All leave is granted for a specific period of time. An employee who foresees being unable or unwilling to return to work at the end of the leave period should apply for any other leave for which the employee is eligible, including an extension of the current leave. PLATO reserves the right to terminate the employment of an employee who does not return to work at the end of the approved leave period.
+PLATO shall not dismiss, suspend, or lay-off an employee during their leave, or for reasons arising from the leave alone. Employees, upon the end of their leave, will immediately resume work in their appointed position held before the beginning of their leave, or an equivalent position, and will not incur a decrease in pay as a result. 
+9.4.2 Seniority and Vacation Entitlements 
+Employees will accrue seniority (years of service) while on leaves of absence. Employees will not accrue vacation time while on leave, except where required by provincial Employment Standards legislation. 
+9.4.3 Benefits While on Leave 
+Type of Leave 	Retain benefits? 	Portion of premiums 
+Illness/Injury (short-term, up to 17 weeks) 	Yes 	Shared premium (50%) 
+Illness/Injury (long-term >17 weeks) 	Yes 	Full premium* (100%) 
+Maternity/Parental Leave 	Employee option 	Shared premium (50%) 
+Other protected leaves of absence 	Yes 	Shared premium (50%) 
+Personal Leave of Absence (unprotected) 	Yes 	Full premium (100%) 
+
+9.4.4 Personal Time 
+All permanent employees will receive five (5) paid personal days per calendar year to be used between January 1st and December 31st. Personal time does not carry over year to year. Personal time can be taken in blocks of one (1) hour and is intended to be used for illness, medical appointments, or other unexpected and urgent situations, not for vacation time. Employees are not eligible to take paid personal time during the probationary period. 
+Employees must submit a request to their manager to use personal time in advance where possible. Employees who are unable to attend work or need to leave work during their workday must notify their PLATO manager as soon as possible and advise the reason for their absence i.e., Illness, appointment, etc. Personal medical information is not required. If an absence extends beyond one day, employees must contact their manager each day unless otherwise arranged. 
+When personal time hours are exhausted, vacation time must be used for all absences. It is the employee’s responsibility to submit the personal time in the designated timekeeping software. PLATO reserves the right to ask the employee to submit documentation for absence due to illness if the employee’s absence exceeds five (5) days. 
+Employees will be considered “absent” if they do not attend work as scheduled and have not contacted their Manager to inform them of the absence. If the employee is absent for three (3) consecutive days, and no contact is made, an employee may be terminated.
+9.4.5 Illness/Injury Leave 
+If an employee will be absent from work due to illness or injury for an extended period of time, PLATO has the right to place the employee on unpaid short-term sick leave until such time that the waiting period for Long Term Disability benefits is exhausted. The employee may be eligible for Employment Insurance benefits during this period. More information is available on the Government of Canada website. 
+9.4.6 Maternity and/or Parental Leave 
+Maternity and/or Parental Leave will be governed by the legislated provisions of the province where you work. Employment Insurance Maternity and Parental benefits are available through Service Canada. Further information on eligibility and how to apply can be found on the Government of Canada website. 
+Employees must notify PLATO of their intention to take Maternity and/or Parental leave no later than 6 weeks before the leave is to begin, ideally 2-3 months in advance. Notification should be accompanied by a medical note confirming the pregnancy and expected delivery date. 
+All employees welcoming a child into their family, whether by birth or adoption, will be granted five (5) paid days of parental leave. If you are the birthing parent, this leave will be granted at the beginning of your maternity leave period. If you are not the birthing parent, this leave should be taken upon arrival of the child, or soon thereafter, in discussion with your manager. 
+Benefits coverage may be maintained while on Maternity and/or Parental Leave. Please see Section 10.4.3 Benefits While on Leave for more details. Seniority and Vacation time will accrue as per Section 10.4.2 Seniority and Vacation Entitlements 
+9.4.7 Caregiving/Compassionate Care Leave 
+Employees are granted caregiving/compassionate care leave for the purpose of providing care and support for a critically ill or injured family member or someone needing end-of-life care, based on the eligibility criteria for such leaves in their province of residence. A family member includes immediate family as well as other relatives and individuals considered to be like family, whether or not related by marriage, common-law partnership, or any legal parent-child relationship. Any questions regarding this should be directed to Human Resources. 
+9.4.8 Jury and Witness Duty Leave 
+An employee summoned for jury duty or as a court witness will be granted unpaid leave of absence for the period required. Employees must give PLATO 15 days’ advance written notice. Employees will be expected to report to work during all regular hours if their presence is not required in a jury room or court. PLATO may require the employee to supply documentation from the court affirming the employee's jury duty service. 
+9.4.9 Civic Duty 
+Employees who are absent from work in order to attend civil emergencies, disasters or other critical incidents as part of a recognized response team i.e., Police, Reserves, First Aid Responder, Red Cross, Fire Service, Search and Rescue Volunteer, etc. may continue to receive pay as long as this duty is required, subject to review on a case-by-case basis. Employees should notify their PLATO Manager once they become members of such organizations. Also, if possible, employees should notify, or have someone notify, their PLATO Manager or leave a message if they are called for emergency duty. 
+9.4.10 Bereavement Leave 
+In the event of a death in the immediate family, an employee will be granted leave with pay to a maximum of three working days per calendar year. Additional unpaid days may be granted in adherence with provisions of provincial Employment Standards Act leave policies, or at PLATO’s discretion. 
+Members of the immediate family include spouse, children, parents, siblings, parents-in-law, brother-in-law, sister- in-law, stepparents, or grandparents of the employee. This includes a relationship between persons who, though not married to one another and whether or not a blood relationship exists, demonstrate an intention to extend to one another the mutual affection and support normally associated with those relationships first mentioned. 
+10 Employee Benefits 
+The following outlines the benefits that PLATO makes available to eligible employees. The descriptions in this handbook are a summary only. The separate plan documents explain each benefit in more detail and the language of the plans’ documents controls the various plans. Benefits may be modified, added or terminated at any time by the insurance company or benefit provider, per the terms of the plan, or by PLATO, at its discretion. 
+10.1 Health and Dental Benefits 
+To be eligible for Group Benefits, you must be a permanent employee who is a resident of Canada, covered under your provincial government plan, actively at work, and working a minimum of 20 hour per week on a regular basis. Enrolment in the Group Benefits plan is available as of the first day of employment for eligible employees and their qualified dependents. Refer to the plan information on the People Services site for details regarding coverage, eligibility, waiting periods and cost share. 
+10.2 Worker’s Compensation 
+PLATO requires that all employees report job-related accidents or injuries to a PLATO Manager immediately, whether the accident occurred on or off company premises. Failure to report an injury, regardless of how minor, could result in difficulty with the employee’s claim. 
+All workers’ compensation claims will be paid directly to the employee and employees are expected to return to work immediately upon release by their doctor. 
+10.3 Group Retirement Savings Plan 
+After successful completion of the 90-day probationary period, full-time, permanent employees have the option to enroll in the Group Retirement Savings Plan. PLATO will match up to a maximum of 2% of the annual base salary via payroll deductions on a bi-weekly basis. Refer to GRSP resources on the People Services site or reach out to HR for more details on how to enroll. 
+10.4 Wellness Incentive Program 
+Full-time, permanent employees are eligible to be reimbursed up to $250 per calendar year for expenses that they have incurred that are directly related to physical and recreational activities. The deadline to submit for reimbursement is the Friday before the last pay date of the calendar year and is a taxable benefit.
+•	Full-time PLATO employees who have successfully completed their probation period are eligible. Eligibility ceases upon termination of employment or notice of resignation 
+•	Eligible expenses must have been incurred since employment commenced and claimed within the same calendar year they are incurred. 
+•	Employees are reimbursed upon completion of the expense form with attached receipts. The expense claim is to be submitted to Payroll for approval and processing. 
+•	The program applies to physical and recreational activities that support your mental and physical wellbeing. Examples include: o gym membership or yoga classes for yourself. 
+•	payments for an outdoor excursion. 
+•	fitness equipment such as a treadmill, bicycle, free weights, tennis racket, etc. 
+•	registration to participate on a sports team, fitness class, or lift tickets 
+•	registration fees, regalia, and other paraphernalia for participating in cultural events such as Pow Wows and religious festivals 
+•	If you're not sure if an expense is eligible, please reach out to HR 
+•	Examples of what is not eligible: o non-active means of transportation (i.e. electric bikes or scooters). 
+•	smart watches unless it is purely a fitness device. 
+•	apparel & shoes 
+•	memberships or registrations for family members. 
+•	services such as massage therapy, counseling, and weight loss clinic fees, etc. 
+10.5 Relocation 
+Employees may be eligible for a relocation allowance if they are required by PLATO to relocate to a different office or client location within Canada. The amount is determined in consultation with the Regional Leader and is provided in the form of a taxable lump sum payment. If the employee relocates away from the location or is terminated for any reason, by either party within six months of the effective date of the relocation, the full relocation allowance must be repaid. If the employee relocates away from the location or termination occurs between six and 12 months following the relocation, 50% of the relocation allowance must be repaid. 
+11 Employee Referral Program 
+11.1 Program Description 
+The purpose of this program is to leverage the power of PLATO’s current workforce to assist in recruiting new employees to the organization. 
+Upon confirmation of eligibility (see following sections), a payment of $600 (less the required statutory deductions) will be made to the referring employee as part of the employee’s regular pay after the referred applicant has successfully completed their probation period. 
+The referrer should collect the applicant’s resume and forward the application directly to Recruitment recruitment@platotech.com. There is no limit to the number of referral awards a referrer can receive. 
+11.2 Referrer Eligibility 
+The referrer must be a PLATO employee on the date the referral is made up to and until the referred applicant has successfully completed their probation period. 
+Who is not eligible to participate as a referrer? 
+•	Any employee-referrer on a leave funded by an alternative source (e.g., WCB, LTD, EI) is not eligible to participate in the program as doing so would have negative implications on his/her claim. 
+•	Any employee who would be involved in any way with the selection of the referred candidate or would provide direct supervision to the candidate if hired. 
+•	Any employee who is in a Human Resources position. 
+11.3 Applicant Eligibility 
+Who is eligible to be referred for Public Job Postings? 
+•	Family, friends, acquaintances who are not currently employed by PLATO 
+•	Former PLATO employees not employed by PLATO in the past 12 months 
+•	Who is not eligible to be referred? 
+•	Any applicant who: o Is a current PLATO employee 
+•	Has been employed on PLATO’s payroll or through a temporary employment agency within the preceding 12 months 
+•	Has applied to PLATO within the previous six (6) months 
+11.4 Eligible Vacancies 
+Referrals will be accepted for any vacancies listed on the PLATO Careers page https://platotech.com/careers/ 
+12 Separation Policies 
+12.1 Job Abandonment 
+Employees of PLATO that are absent for more than three (3) consecutive days without notifying their PLATO Manager or Human Resources are considered to have voluntarily abandoned their employment with the company. The effective date of termination will be the last day the employee reported for work. If an employee abandons a job, he or she will not be entitled to accrue vacation days, unless required by law. Inability to return to work after scheduled vacation due to travel related issues will be considered job abandonment. 
+12.2 Termination 
+PLATO does not have tenure or guaranteed employment. An employee may resign, or PLATO may terminate that employee’s employment at any time for any reason. 
+Termination may result from any of the following: 
+i. Corrective action measures, which include infractions for violation of company policies. 
+ii. Layoffs, which include the elimination of an employee’s job function or headcount reduction due to redundancy or cost reduction. 
+iii. Involuntary dismissal, which may include poor performance reviews or failure to demonstrate an acceptable attitude in the workplace. 
+12.2.1 Termination Process 
+PLATO requires that employees return all documents, files, computer equipment, uniforms, company tools, business credit cards, keys and other company owned property on or before the last day of work. 
+Employees leaving the company are encouraged, but not required, to have an exit interview with a representative from Human Resources. 
+12.3 Employment References 
+Due to confidentiality and personal privacy considerations, PLATO does not provide employment references for former employees. Management will provide dates of employment and positions held only. 
+Appendix A Examples of Harassment 
+Remember that each case is unique and should be examined in its own context and according to the surrounding circumstances. 
+Examples of inappropriate behavior that, while not harassment, still needs to be addressed: 
+•	Talking loudly in the workplace 
+•	Always being in a bad mood 
+•	Slamming doors 
+•	Constantly interrupting colleagues in a meeting 
+•	Barging in on colleagues who are having a conversation 
+•	Whining about trivial things 
+What generally does not constitute harassment: 
+•	Carrying out managerial duties where the direction was carried out in a respectful and professional manner 
+•	Allocating work 
+•	Following-up on work absences 
+•	Requiring performance to job standards 
+•	Taking corrective or disciplinary measures when justified 
+•	A single or isolated incident such as an inappropriate remark or abrupt manner 
+•	Exclusion of individuals for a particular job based on specific occupational requirements necessary to accomplish the safe and efficient performance of the job 
+•	A social relationship welcomed by both individuals 
+•	Friendly gestures among co-workers such as a pat on the back 
+•	The normal exercise of management rights 
+•	Manager mistakes 
+•	Work-related stress 
+•	Conditions of work or study 
+•	Difficult professional constraints such as a budget reduction exercise 
+•	Constructive criticism about the work mistake and not the person 
+•	Counseling an employee on his performance appraisal when done in a non-discriminatory or harassing manner 
+What may constitute harassment: 
+•	Criticizing, insulting, blaming, reprimanding or condemning an employee in public 
+•	Exclusion from group activities or assignments without valid reason 
+•	Statements damaging to a person's reputation 
+•	Making sexually suggestive remarks 
+•	Physical contact such as touching or pinching 
+•	Removing areas of responsibility for no real reason 
+•	Inappropriately giving too little or too much work 
+•	Constantly overruling authority without just cause 
+•	Unjustifiably monitoring everything that is done 
+•	Blaming whenever things go wrong without just cause 
+What generally constitutes harassment: 
+•	Serious or repeated rude, degrading or offensive remarks, such as teasing related to a person's physical characteristics or appearance, put-downs or insults 
+•	Displaying sexist, racist or other offensive pictures, posters or sending e-mails related to one of the eleven grounds prohibited under the Canadian Human Rights Act 
+•	Repeatedly singling out an employee by assigning him/her with demeaning and belittling jobs that are not part of his/her regular duties 
+•	Threats, intimidation or retaliation against an employee, including one who has expressed concerns about perceived unethical or illegal workplace behaviors 
+•	Unwelcome social invitations, with sexual overtones or flirting, with a subordinate 
+•	Unwelcome sexual advances that may or may not be accompanied by promises or threats, explicit or implicit 
+•	Intimidation, threats, verbal abuse, blackmail, yelling or shouting 
+•	Caressing, kissing or fondling someone against his or her will (could be considered assault) 
+•	Comments destroying a person's reputation, repeated insinuations or unfounded accusations 
+•	Insults or humiliations, repeated attempts to exclude or isolate a person 
+•	Invasion of personal space (getting too close for no reason, brushing against or cornering someone) 
+•	Persistently asking someone out, despite being turned down 
+•	Regularly following or constantly waiting for someone, watching that person's comings and goings 
+•	Racist and discriminatory comments or offensive jokes 
+•	Inappropriate questions, suggestions or remarks about a person's sex life 
+•	Systematically interfering with normal work conditions, sabotaging places or instruments of work 
+•	Abuse of a situation of formal or informal authority or power to threaten a person's job or undermine his or her performance 
+•	Bullying (physical, verbal, social, cyber) for example humiliating a person in public settings in order to control the emotional climate at work 
+•	Falsely accusing and undermining a person behind closed doors, controlling a person's reputation by rumor- mongering, controlling the person by withholding resources (time, budget, autonomy, training) necessary to succeed 
+•	Humiliating a person in front of colleagues, smear campaigns 
+•	Arbitrarily taking disciplinary action against an employee 
+
+
+
+Appendix B Certification of Insurance Coverage 
+I certify that the personal automobile which I occasionally use for Professional Quality Assurance (PLATO) business (other than to travel to and from my regular place of employment), and for which I submit a claim for reimbursement from time to time, is insured for public liability for a sum of not less than $1,000,000. Further, I certify that my insurance carrier has been informed that I use my personal automobile for business purposes to the extent that I do, and that my coverage is deemed adequate in the opinion of my insurer. (See note below.) 
+I further recognize that this certificate will be maintained by the Finance Department of my normal place of employment and will be deemed by PLATO to be in effect until such time as I inform PLATO otherwise
+
+Name (please print):    _____________________________________________________________
+Signature:   _______________________________________________________________________
+Date:   ____________________________________________________________________________
+
+
+Note: Persons who have significant need to use their personal automobiles for business travel may be required to pay an increased premium for insurance. There may be a risk of denial of coverage by the insurer if this is not communicated to the insurer at the time of purchasing the policy.
+
+
+
+
+Appendix C Acceptable Use of Assets and Information 
+C.1 Definitions 
+Computing Asset 
+Any computing device, software, application, network, etc., whether the property of the Company or external parties, that is used to conduct PLATO business. 
+Corporate Governance 
+Organization within PLATO responsible for guidance and support on technology watch matters, legal compliance, and Information Security. 
+DO / DO NOT 
+Examples expressed in DO and DO NOT terms are provided for informational purposes but should not be considered a comprehensive or complete list. 
+Information Asset 
+Data, whether the property of the company or external parties, in electronic, printed, spoken, or otherwise stored and transmitted form that is used to conduct PLATO business. 
+C.2 Legal Considerations: Software Licensing and Copyrights 
+To reduce PLATOs legal and financial risks, it is PLATO’s policy to respect all computer software copyrights and to adhere to the terms of all agreed upon software licenses to which PLATO is a party. 
+Today, notably through the Internet, it is very easy to download software freely. This is very convenient and can significantly enhance our global performance. Nevertheless, the usage of freely available software without caution could put PLATO at risk legally, operationally and financially. 
+PLATO must handle all software (including freely available software such as freeware, shareware and open-source software) in accordance with the agreed upon license agreement, including any limitations of giving or receiving software to/from clients, contractors, partners and others. 
+DO 
+•	DO read and understand any software copyright restrictions. 
+•	DO respect all applicable copyright restrictions including limiting the distribution or copying of such works as applicable. 
+DO NOT 
+•	DO NOT install pirated or copied software on any PLATO equipment. 
+•	DO NOT install personally purchased or acquired software on any PLATO equipment. 
+•	DO NOT copy any PLATO licensed software for non-PLATO use. 
+C.3 Secure Working Environment 
+Sensitive information left on desks, meeting room tables, printers, copiers, faxes and visible on unlocked computer terminal sessions create an unnecessary risk of disclosure. By keeping confidential information out of the hands of unauthorized persons, you are protecting PLATO information against deliberate and/or accidental disclosure. 
+Information (both in electronic and paper form) and computing assets belonging to the company must not be removed without management authorization. 
+ 
+To maintain a clear desk, confidential papers and computer media must be stored in a secure, lockable location when not in use and after business hours. 
+Computer screens must be locked and protected by a password when left unattended, even if only for a short while. Confidential information, when printed, must be removed from the printers/faxes/copiers immediately. 
+C.4 Security Incident Response 
+While prevention is clearly better than cure, it is equally important to be able to detect and respond in a timely and determined manner to security incidents or identified failings in our information security environment. 
+Our ability to limit the impact of such incidents on PLATO, or for that matter its partners’, customers’ and suppliers’ 
+businesses, depends on our ability to react quickly and effectively to identify, contain and remove threats. 
+All security incidents, suspicious activity and suspected vulnerabilities must be reported to the Help Desk immediately. If the perceived nature and severity of the incident is such that it could involve deliberate employee wrongdoing, the matter can alternatively be reported directly to the PLATO Management Team. 
+Unless directed to do so by a member of the Management Team, employees must not attempt to investigate or take action during a security incident. 
+C.4.1 Report a Security Incident 
+What is a Security Incident? 
+A security incident is any attempted or actual unauthorized access, use, disclosure, modification, or destruction of information. This includes interference with information technology operation and violation of PLATO policy, laws or regulations. 
+Examples of security incidents include: 
+•	Computer system breach 
+•	Unauthorized access to, or use of, systems, software, or data 
+•	Unauthorized changes to systems, software, or data 
+•	Loss or theft of equipment storing institutional data 
+•	Denial of service attack 
+•	Interference with the intended use of IT resources 
+•	Compromised user accounts 
+It is important that actual or suspected security incidents are reported as early as possible so that IT can limit the damage and cost of recovery. Include specific details regarding the system breach, vulnerability, or compromise of your computer and we will respond with a plan for further containment and mitigation. 
+How to report a security incident 
+By email: helpdesk@platotech.com 
+If the incident poses any immediate danger, contact the IT Manager immediately at (506) 476-9406 
+Information to include in the report: 
+•	Your name 
+•	Department 
+•	Email address 
+•	Telephone number 
+•	Description of the information security problem 
+•	Date and time the problem was first noticed (if possible) 
+•	Any other known resources affected 
+What should I do if I suspect a serious Security Incident? 
+A security incident is considered serious if PLATO is impacted by one or more of the following: 
+•	potential unauthorized disclosure of sensitive information 
+•	serious legal consequences 
+•	severe disruption to critical services 
+•	active threats 
+•	is widespread 
+•	is likely to raise public interest 
+•	Sensitive information includes personally identifiable information that is protected by laws and regulations, as well as confidential information that is protected by data use agreements, such as: 
+o	 Social security number 
+o	Credit card number 
+o	Driver's license number 
+o	 Client information 
+If you know or suspect that the compromised system contains sensitive data, please take these steps: 
+•	Do not attempt to investigate or remediate the compromise on your own 
+•	Instruct any users to stop work on the system immediately 
+•	Do not power down the machine 
+•	Remove the system from the network by unplugging the network cable or disconnecting from the wireless network 
+•	Report the incident using the instructions above 
+•	In the case of a serious incident, please be aware that continued interaction with a compromised machine can severely affect later forensic analysis 
+
+
+C.5 Computer Security Principles 
+Company computer assets are provided for the transaction of company business. The policy of PLATO with respect to information in electronic media (including, but not limited to, programs, databases, files and e-mail records) is no different from the policy concerning paper records. 
+While PLATO, at all times, retains the right to inspect, record and/or remove all information created or kept by employees utilizing company assets, such inspection, recording or removing must take place only on the basis of company need and in line with applicable laws and regulations. Company need includes, but is not limited to, access to assets to comply with legal, regulatory or audit requirements, as well as management’s determination that reasonable cause exists to believe that laws, PLATO policies and/or management directives have been, are being or might be violated. 
+All inspection, recording or removing of information must respect criminal and civil law, and statutory, regulatory, and contractual obligations. 
+C.6 Security Management of Computing Assets 
+Security patches, firewalls, monitoring, antivirus and management software work together to improve the security of PLATO’s computing and information assets. PLATO computing assets that are connected to any non-PLATO network must be protected by an approved, properly configured, and operational firewall (hardware or software). 
+All software installed on PLATO computing equipment must be approved by PLATO. 
+Antivirus software is mandatory on applicable devices and must be installed, maintained and centrally managed by PLATO. Patch management is mandatory for all computing assets on the PLATO network and all patches must be validated prior to installation by PLATO. 
+DO NOT 
+•	DO NOT download and install software without approval through the Help Desk. 
+•	DO NOT disable or hinder the antivirus or patch application process. 
+•	DO NOT willfully obstruct software updates that are initiated by PLATO for your PC. 
+•	DO NOT install patches unless authorized by PLATO. If you think that you need an official patch from a vendor, always contact the Help Desk first for advice. 
+C.7 Circumvention of Security Measures 
+To protect its information and computing assets, PLATO has instituted many important security measures. Users are prohibited from attempting to circumvent or subvert any PLATO security measures. 
+DO NOT 
+•	DO NOT access information for which you are not authorized or the intended recipient. 
+•	DO NOT bypass the security protection of any computing asset, network or account. 
+•	DO NOT use any computer program or device to intercept or decode passwords or data. 
+•	DO NOT execute any form of monitoring or scanning without PLATO approval. 
+•	DO NOT attempt to degrade the performance of or prevent access to any computing asset or network. 
+•	DO NOT create or propagate malicious programs (i.e. viruses, worms, Trojan horses, e-mail bombs). 
+•	DO NOT intentionally destroy or damage computing or information assets belonging to PLATO, its customers, contractors, suppliers or to other users. 
+•	DO NOT travel outside of Canada with PLATO / client assets (laptops, mobile phones, etc.) – PLATO employees will not be permitted to work outside of Canada 
+C.8 Network Security 
+C.8.1 Email and Instant Messaging 
+Email is well established as a prime means of communication for business purposes that is faster and cheaper than more traditional methods. Email also presents more risks to PLATO information than any other application. These risks include accidental or deliberate disclosure of sensitive information; intellectual property theft; malicious attacks by viruses; offensive material and SPAM. In addition, emails are considered business records and can be used in legal proceedings. 
+Instant Messaging provides the ability for users to send short messages from one machine to another. Like email, these services typically use a central server and have many similar risks, therefore, it is vital that instant messaging services used to conduct PLATO business maintain the same security level and protection as company email services. 
+To protect PLATO from the threat of viruses, worms and intellectual property theft, all email and electronic messaging used within the PLATO network or used for PLATO business must only be installed and maintained with Corporate Governance authorization. 
+Public email accounts, webmail, instant messaging (other than approved versions) or other public services, like VoIP, 
+must not be used while connected to the PLATO network or to conduct PLATO business. 
+All email domains and addresses used for PLATO purposes must have Corporate Governance authorization. PLATO email and other electronic messaging assets must not be abused in a wasteful or illegal manner. 
+ 
+DO 
+•	DO think twice before giving your PLATO email address to people or web sites, it can help reduce SPAM. 
+•	DO protect the privacy of your PLATO email password and address. 
+•	DO only send PLATO email messages based on a need-to-know basis. 
+•	DO be careful of message content when forwarding or copying messages. 
+•	DO use email storage space wisely by regularly deleting email messages that are no longer needed. 
+•	DO use approved versions of instant messengers for PLATO business only. 
+DO NOT 
+•	DO NOT open email attachments, even if you know the sender, unless you are expecting the message or have otherwise verified its authenticity and there are no suspicious circumstances. 
+•	DO NOT use non-PLATO email accounts (e.g. Yahoo!, Hotmail, Gmail) while connected to the PLATO network or to conduct PLATO business. 
+•	DO NOT use instant messaging services for personal use while connected to the PLATO network. 
+•	DO NOT use video streaming websites (such as You Tube). 
+•	DO NOT auto-forward your PLATO email to an external mailbox provider. 
+•	DO NOT use email or messaging services to distribute illegal or professional inappropriate material. 
+•	DO NOT send unsolicited emails or reply to unsolicited emails. 
+•	DO NOT send SPAM email complaints to external abuse services as this can cause PLATO mail systems to be incorrectly filtered. 
+•	DO NOT forward chain letters, hoax warning messages or questionable images and jokes to anyone. 
+C.8.2 Internet Usage 
+While the Internet is a very important tool in today’s business world, it also presents a number of technical and legal risks. The Internet is inherently insecure, so PLATO has implemented security policies and measures to protect its assets.
+DO
+•	DO be aware that viruses, worms, Trojans and other malicious software are common on the Internet. 
+•	DO keep your Internet use to a minimum. 
+•	DO check that any information you access on the Internet is accurate, appropriate, complete and current. 
+•	 DO immediately inform the Help Desk of any unusual occurrence(s). 
+DO NOT
+•	DO NOT visit Internet sites that contain obscene or other objectionable materials. 
+•	DO NOT send or receive any material that is obscene or defamatory or which is intended to annoy, harass or intimidate someone. 
+•	DO NOT use the Internet for any illegal purpose. 
+•	DO NOT represent personal opinions as being those of PLATO 
+•	DO NOT make or pose indecent remarks, proposals or materials.  
+C.9 System Security 
+C.9.1 Non-PLATO Managed Equipment 
+PLATO policies specify how PLATO information is to be protected when stored on PLATO computing assets. Non-PLATO managed equipment, in particular privately-owned equipment, cannot be expected to meet those specifications. Non-PLATO managed computing assets pose a wide range of issues, including lack of licensing and support and inadequate network security, and bear a significant risk to intellectual property stored thereon. 
+PLATO information must not be stored on non-PLATO managed computing assets. 
+Only PLATO owned, managed or otherwise authorized computing assets may be connected to the PLATO network. Non-PLATO owned computing and data storage assets are not allowed on the PLATO network. Subject to applicable laws and regulations, PLATO reserves the right to search any non-PLATO managed data storage assets that are brought onto PLATO premises. 
+DO 
+• DO use the computing assets provided by PLATO in compliance with PLATO policy. 
+• DO check with Corporate Governance before connecting any third-party equipment to any PLATO network or other computing asset. 
+DO NOT 
+• DO NOT store PLATO information assets on any privately owned or unauthorized equipment or media. 
+• DO NOT connect any privately owned or unauthorized equipment (such as PCs, PDAs or portable storage devices) to any PLATO network or computing equipment. 
+C.9.2 Using Passwords 
+A user ID and password is a primary basis of information security. Your user IDs and passwords uniquely identify you for authorized access to specific PLATO information and computer services. The strength of passwords relies on three major factors: 
+1.	The choice of a good password 
+2.	The secrecy of a password 
+3.	The management of passwords 
+For your own protection, and for the protection of PLATOs assets, you must keep your passwords secret. Passwords are considered PLATO Confidential Information and are not to be disclosed to or shared with anyone. You will also need to provide a phone number, or device to configure Multi Factor Authentication on your account. The preferred method is to use Microsoft Authenticator for authentication. 
+ 
+DO 
+•	DO keep your passwords secret. 
+•	DO ensure your keystrokes are not being observed when typing your passwords (“shoulder surfing”). 
+•	DO use passwords of at least eight characters in length. 
+•	DO include at least one number and at least one special character such as _ or $. 
+•	DO change your initial passwords or after any (suspected) disclosure of your passwords. 
+•	DO change your passwords at least once every 90 days or sooner when specific rules apply. 
+•	DO immediately report password compromise or unexpected account lockout to the Help Desk. 
+DO NOT 
+•	DO NOT ever share your passwords with anyone, including your management or colleagues. 
+•	DO NOT use words that can be found in any dictionary, or slang term. 
+•	DO NOT use as passwords “PLATO”, “Systems”, “Admin”, “Security”, “User”, “password”, or personal information such as your user account (login ID), employee number, initials of name and surname, names of relatives, favorite sports team, etc. 
+•	DO NOT write down your passwords. 
+•	DO NOT store your passwords in a computer file or script unless the file is appropriately encrypted. 
+•	DO NOT bypass the authentication process by using “remember my password” features or by using automated logon routines. 
+•	DO NOT send passwords by email or MSN to others unless the email is appropriately encrypted. 
+ 
+Appendix D Third-Party Web Application Usage Policy 
+D.1 Policy Overview 
+This policy outlines the guidelines and requirements for the use of third-party Web Application within PLATO to ensure the protection of personal identifying information (PII), compliance with data use policies, and the responsible use of Web Applications. 
+D.2 Purpose and Scope 
+This policy is designed to protect the confidentiality and integrity of data, particularly PII/ Client Data, and to ensure that third-party web applications is used responsibly within the organization. 
+This policy applies to all employees, contractors, and authorized third parties who intend to use or are using third-party web applications on behalf of PLATO. 
+D.3 Responsibilities 
+Employees and Authorized Users: 
+•	Must adhere to this policy when considering the use of third-party web applications. 
+•	Are responsible for ensuring that the product is secure via https://. 
+•	For more information regarding the identification of security and validity of a web application see https://us.norton.com/blog/how-to/how-to-know-if-a-website-is-safe. 
+•	Must obtain prior approval from their manager. 
+Managers and Security: 
+•	Will review and approve or deny requests for the use of third-party web applications. 
+•	Ensure that the selected web application(s) complies with data use policies and data protection regulations. 
+•	Will monitor the use of approved third-party web applications for compliance and data security. 
+D.4 3. Use of Third-Party Web applications: 
+D.4.3.1 Data Use Policy Review: 
+•	Prior to the use of any third-party web applications, employees must read and understand the web application's data use policy. 
+D.4.3.2 Data Protection and Removal of PII: 
+•	Users must ensure that no client identifiable information is entered into 3rd party web applications. 
+•	Employees should follow best practices to minimize data exposure when using third-party web applications. 
+
+D.5 4. Revision and Review: 
+This policy will be reviewed regularly to ensure its effectiveness and relevance. Any necessary updates will be made to reflect changes in technology or regulations. 
+Appendix E Acceptable Use of Artificial Intelligence (AI) Policy 
+E.1 Purpose & Scope 
+Further to the Third-Party Web Application Usage Policy, this policy outlines the appropriate use of ChatGPT, or any similar AI product, within PLATO. The goal is to ensure the responsible and secure use of AI to enhance productivity while protecting company data and adhering to ethical standards. 
+This policy applies to all employees, contractors, consultants, temporary staff, and other workers at PLATO, including all personnel affiliated with third parties. 
+E.2 Acceptable Use 
+Employees may use AI for: 
+•	Drafting emails, reports, and other business communications. 
+•	Conducting research and gathering information relevant to work tasks. 
+•	Enhancing customer service by troubleshooting solutions. 
+•	Analyzing trends in data and making predictions. 
+•	Brainstorming and generating ideas for projects and initiatives. 
+E.3 Prohibited Use 
+•	Employees must not use AI for: 
+•	Sharing confidential, proprietary, or sensitive company information. 
+•	Generating or disseminating any content that is illegal, unethical, or violates company policies. 
+•	Engaging in personal, non-work-related activities during business hours. 
+•	Creating content that could be considered offensive, discriminatory, or inappropriate. 
+•	Claiming generated AI content as your own original work. 
+E.4 Data Privacy and Security 
+•	Do not input any personal identifiable information (PII), financial data, or sensitive project and/or client details into AI tools. 
+•	Ensure that any data shared with AI is anonymized and devoid of any information that could be used to identify individuals or compromise company security. 
+•	Regularly review and audit interactions with AI tools to ensure compliance with data privacy and security policies. 
+
+E.5 Quality Assurance 
+•	Verify the accuracy and relevance of the information generated by AI tools before using it in official communications or projects. 
+•	Cross-check critical outputs with human expertise to ensure reliability and correctness. 
+E.6 Monitoring and Compliance 
+•	PLATO reserves the right to monitor and review usage of AI tools to ensure adherence to this policy. 
+•	Employees found violating this policy may be subject to disciplinary action, up to and including termination of employment. 
+E.7 Training and Support 
+•	Employees receive training on the effective and ethical use of AI via Beauceron. 
+•	Ongoing support is available to address any questions or issues related to AI usage. 
+E.8 Revision and Review 
+This policy will be reviewed regularly to ensure its effectiveness and relevance. Any necessary updates will be made periodically to reflect changes in technology, regulations or company practices. Employees will be notified of any significant changes. 
+E.9 Contact Information 
+For questions or concerns regarding this policy or the use of AI, please contact the IT department (helpdesk@platotech.com) or your immediate manager. 
+E.10 Reference Policy 
+Please reference Third Party Web Application Usage Policy.
+
